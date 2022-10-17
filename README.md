@@ -1,7 +1,7 @@
 # 💵️ Projeto Digital Wallet
 
-<img src="" alt="imagem.png" style="max-width: 80%;">
-<img src="" alt="imagem2.png" style="max-width: 80%;">
+<img src="https://github.com/carolhn/Projeto-Digital-Wallet/blob/main/imagem.png?raw=true" alt="imagem.png" style="max-width: 80%;">
+<img src="https://github.com/carolhn/Projeto-Digital-Wallet/blob/main/imagem1.png?raw=true" alt="imagem2.png" style="max-width: 80%;">
 
 # ✏️  Esse projeto tem objetivo de:
 
