@@ -1,0 +1,86 @@
+table {
+  border-collapse: separate;
+  border-spacing: 2px;
+  margin-top: 8px;
+  text-indent: initial;
+}
+
+th {
+  display: table-cell;
+  text-align: -internal-center;
+  vertical-align: inherit;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.thead {
+  background-color: #0c1e47;
+  color: white;
+  line-height: 50px;
+  text-align: center;
+  width: 100%;
+}
+
+.table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+/* ____________________________________ 2° parte Table ________________________________ */
+.conversao {
+  border-collapse: collapse;
+  margin-top: 8px;
+  min-width: max-content;
+  text-indent: initial;
+  width: 100%;
+}
+
+td {
+  display: table-cell;
+  text-align: -internal-center;
+  vertical-align: inherit;
+}
+
+tbody {
+  background-color: aliceblue;
+  border: 1px solid  #0c1e47;
+  font-size: 15px;
+  line-height: 25px;
+  text-align: center;
+}
+
+tbody:hover {
+  background-color: #0c1e47;
+  color: aliceblue;
+}
+
+.excluir {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 25px;
+  margin-left: 15px;
+  outline: none;
+  overflow: hidden;
+}
+
+.excluir:hover {
+  color: aliceblue;
+}
+
+.editar {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 25px;
+  outline: none;
+  overflow: hidden;
+}
+
+.editar:hover {
+  color: aliceblue;
+}

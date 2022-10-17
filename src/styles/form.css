@@ -1,0 +1,44 @@
+.form-wallet {
+  align-items: center;
+  background-color: #8cb4ae;
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 8px;
+  min-height: 55px;
+}
+
+.form-wallet input select {
+  border-radius: 2 2px;
+  cursor: pointer;
+  margin-top: 4px;
+}
+
+.form-wallet label {
+  display: contents;
+  margin: 0 5px;
+  padding: 1px;
+}
+
+.buttonAdd {
+  background-color: #0c1e47;
+  border: none;
+  border-radius: 6px;
+  box-shadow: 0 4px rgb(119, 117, 117);
+  color: white;
+  cursor: pointer;
+  display: inline-block;
+  margin-top: -7px;
+  outline: none;
+  padding: 6px 7px;
+  text-align: center;
+}
+
+.buttonAdd:active {
+  background-color: black;
+  box-shadow: 0 4px rgb(119, 117, 117);
+  color: white;
+}
+
+input {
+  border-radius: 2 2px;
+}
