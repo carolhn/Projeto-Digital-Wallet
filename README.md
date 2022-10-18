@@ -4,7 +4,7 @@
 <br>
 <img src="https://github.com/carolhn/Projeto-Digital-Wallet/blob/main/imagem1.png?raw=true" alt="imagem2.png" style="max-width: 70%;">
 
-## ✏️  Esse projeto tem objetivo de:
+### ✏️  Esse projeto tem objetivo de:
 
  ▫️Criar um _store_ Redux em aplicações React;<br>
 
