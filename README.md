@@ -18,7 +18,7 @@
 
 ▫️Criar _actions_ assíncronas na sua aplicação React que faz uso de Redux;<br>
 <br>
-## 🔗️ Links:
+### 🔗️ Links:
 
 <p>Acesse: <a href="https://github.com/carolhn" target="_blank" rel="noopener noreferrer">Github</a>.</p>
 
