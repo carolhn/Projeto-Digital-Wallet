@@ -19,11 +19,12 @@
   * Criar actions assíncronas na sua aplicação React que faz uso de Redux.
 
 ## Instalação:
-Caso queira rodá-lo na sua máquina.
+Para rodar a aplicação em sua maquina.
 
 1. Clone o repositorio. Use o comando:</br>
 <code>git clone git@github.com:carolhn/Projeto-Digital-Wallet.git</code></br>
-Entre na pasta do repositório que você acabou de clonar:</br>
+</br>
+1.1 Entre na pasta do repositório que você acabou de clonar:</br>
 <code>cd Projeto-Digital-Wallet.git</code>
 
 2. Instale as dependências</br>
@@ -32,7 +33,7 @@ Entre na pasta do repositório que você acabou de clonar:</br>
 3. Comando para executar o app</br>
 <code>npm start</code>
 
-### 🔗️ Links:
+### 🔗 Contato:
 
 <p>Acesse: <a href="https://github.com/carolhn" target="_blank" rel="noopener noreferrer">Github</a>.</p>
 
