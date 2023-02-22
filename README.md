@@ -23,17 +23,17 @@ Para rodar a aplicação em sua maquina.
 
 1. Clone o repositorio. Use o comando:</br>
 <code>git clone git@github.com:carolhn/Projeto-Digital-Wallet.git</code></br>
-</br>
-1.1 Entre na pasta do repositório que você acabou de clonar:</br>
-<code>cd Projeto-Digital-Wallet.git</code>
 
-2. Instale as dependências</br>
+2. Entre na pasta do repositório que você acabou de clonar:</br>
+<code>cd Projeto-Digital-Wallet</code>
+
+3. Instale as dependências</br>
 <code>npm install</code>
 
-3. Comando para executar o app</br>
+4. Comando para executar o app</br>
 <code>npm start</code>
 
-### 🔗 Contato:
+### Contato:
 
 <p>Acesse: <a href="https://github.com/carolhn" target="_blank" rel="noopener noreferrer">Github</a>.</p>
 
